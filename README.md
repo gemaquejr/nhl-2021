@@ -6,7 +6,9 @@ Layout de apresentação de suas redes sociais e o seu Github.
 
 ## 🚀 Tecnologias
 
-- ⚡ React is an open source JavaScript library focused on creating user interfaces on web pages.
+- ⚡ HTML é a linguagem base para se desenvolver qualquer site.
+
+- ⚡ CSS é uma linguagem de folha de estilo composta por “camadas”, criado com o propósito de estilizar as páginas HTML.
 
 ## ✋🏻 Pré-requisitos
 
