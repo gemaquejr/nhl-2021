@@ -21,14 +21,4 @@ Layout de apresentação de suas redes sociais e o seu Github.
 
 ## :hammer_and_wrench: Visualização do Projeto.
 
-No diretório do projeto, instale as dependências e inicialize o projeto:
-
-### `npm install`
-
-Instala as dependências.
-
-### `npm start`
-
-Executa o aplicativo no modo de desenvolvimento.
-
-Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo em seu navegador.
+No diretório do projeto, em seu Visual Studio Code, aperte F1 e na caixa de pesquisa, digite: `Live Server: Open With Live Server` para iniciar um servidor.
