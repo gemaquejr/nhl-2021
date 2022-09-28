@@ -4,6 +4,8 @@ Layout de apresentação de suas redes sociais e o seu Github.
 
 É uma aplicação simples que visa ensinar os fundamentos da programação para quem está no início da jornada. :heavy_check_mark:
 
+![preview](.github/preview.png)
+
 ## 🚀 Tecnologias
 
 - ⚡ HTML é a linguagem base para se desenvolver qualquer site.
