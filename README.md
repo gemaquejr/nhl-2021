@@ -33,12 +33,11 @@ git clone https://github.com/gemaquejr/nhl-2021.git
 ```
 2. Abra o projeto no Visual Studio Code.
 
-Instale a extensão Live Server.
+3. Instale a extensão Live Server.
 
-Clique com o botão direito no arquivo index.html e selecione:
+4. Clique com o botão direito no arquivo index.html e selecione:
 Open with Live Server.
 
 ---
 
-👨‍💻 Autor
-Desenvolvido com ❤️ por Francisco Gemaque
+Desenvolvido com ❤️ por [Francisco Gemaque](https://www.linkedin.com/in/gemaquejr/)
