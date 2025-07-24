@@ -1,24 +1,44 @@
-# Projeto desenvolvido na missão Origin do NLW Heat.
+# 🌐 Projeto Social Links | Missão Origin - NLW Heat
 
-Layout de apresentação de suas redes sociais e o seu Github.
+Este projeto foi desenvolvido durante a **Missão Origin** do evento **NLW Heat** promovido pela Rocketseat.
 
-É uma aplicação simples que visa ensinar os fundamentos da programação para quem está no início da jornada. :heavy_check_mark:
+O objetivo é criar uma **interface de apresentação de redes sociais e GitHub pessoal**, aprendendo os fundamentos de **HTML, CSS e JavaScript**, com foco em iniciantes.
 
 ![preview](.github/preview.png)
 
+---
+
 ## 🚀 Tecnologias
 
-- ⚡ HTML é a linguagem base para se desenvolver qualquer site.
+- ⚡ HTML
+- ⚡ CSS
+- ⚡ JavaScript (vanilla)
+- 📦 API pública do GitHub
 
-- ⚡ CSS é uma linguagem de folha de estilo composta por “camadas”, criado com o propósito de estilizar as páginas HTML.
+---
 
-## ✋🏻 Pré-requisitos
+## 🧪 Funcionalidades
 
-- [git](https://git-scm.com/downloads): Ferramenta para gerenciar o código-fonte
+- Mostra foto, nome e bio da pessoa no GitHub.
+- Links para redes sociais personalizáveis.
+- Layout responsivo e moderno.
 
-- [Visual Studio Code](https://code.visualstudio.com/): Editor de Código Fonte
-- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer): Extensão do Visual Studio Code que permite criar um servidor HTTP para servir páginas HTML
+---
 
-## :hammer_and_wrench: Visualização do Projeto.
+## 🛠️ Como executar o projeto
 
-No diretório do projeto, em seu Visual Studio Code, aperte F1 e na caixa de pesquisa, digite: `Live Server: Open With Live Server` para iniciar um servidor.
+1. Clone o repositório:
+```bash
+git clone https://github.com/gemaquejr/nhl-2021.git
+```
+2. Abra o projeto no Visual Studio Code.
+
+Instale a extensão Live Server.
+
+Clique com o botão direito no arquivo index.html e selecione:
+Open with Live Server.
+
+---
+
+👨‍💻 Autor
+Desenvolvido com ❤️ por Francisco Gemaque
